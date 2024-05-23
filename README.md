@@ -38,9 +38,12 @@ The process was conducted using SQL Server 2022 and involved:
 9. The majority of employees are in Ohio (14,788), followed by Pennsylvania (930), Illinois (730), Indiana (572), Michigan (569), Kentucky (375), and Wisconsin (321).
 10. There are 182 job titles in the company. The most common title is Research Assistant II (634 employees), while positions like Assistant Professor, Marketing Manager, Office Assistant IV, Associate Professor, and VP of Training and Development have only 1 employee each.
 11. Employee hire counts have increased over the years.
+    
 
 **Data Visualization:**
+
 ![Report 1](https://github.com/Drashti199801/HR-Analytics-by-SQL-Server-Power-BI/assets/156224544/a09ebee0-c3d0-4113-98fa-e50a99592d10)
+
 ![Report 2](https://github.com/Drashti199801/HR-Analytics-by-SQL-Server-Power-BI/assets/156224544/e6452c73-f1ff-4cc3-98c2-ac0f970e522a)
 
 
